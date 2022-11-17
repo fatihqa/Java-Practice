@@ -1,0 +1,6 @@
+  System.out.println("dışarıdan bir sayi giriniz");
+          int sayi = scanner.nextInt();
+          double sonuç;
+  
+          sonuç=Math.sqrt(sayi);
+          System.out.println("karesi"+ sonuç);
